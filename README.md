@@ -11,7 +11,7 @@ Bash script to automatically install MikroTik Cloud Hosted Router (CHR) on any L
 ## Quick Start
 
 ```bash
-curl -L -O https://github.com/hreskiv/chr-on-vps/raw/refs/heads/main/chr-install.sh
+curl -L -O https://github.com/Yarik-Poyaskov/chr-on-vps/raw/refs/heads/main/chr-install.sh
 NEW_PASSWORD="YourStrongPass!" bash chr-install.sh
 ```
 
