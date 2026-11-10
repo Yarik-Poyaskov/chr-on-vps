@@ -44,7 +44,7 @@ NEW_PASSWORD="YourStrongPass!" bash chr-install.sh
 ### Clone and run
 
 ```bash
-git clone https://github.com/hreskiv/chr-on-vps.git
+git clone https://github.com/Yarik-Poyaskov/chr-on-vps.git
 cd chr-on-vps
 NEW_PASSWORD="YourStrongPass!" ./chr-install.sh
 ```
@@ -141,7 +141,7 @@ Set `TARGET_DISK` explicitly: `TARGET_DISK="/dev/vda" ./chr-install.sh`
 ## Contributing
 
 Contributions, issues, and feature requests are welcome.
-Feel free to open a [Pull Request](https://github.com/hreskiv/chr-on-vps/pulls) or [Issue](https://github.com/hreskiv/chr-on-vps/issues).
+Feel free to open a [Pull Request](https://github.com/Yarik-Poyaskov/chr-on-vps/pulls) or [Issue](https://github.com/Yarik-Poyaskov/chr-on-vps/issues).
 
 ---
 
